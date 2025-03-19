@@ -9,8 +9,8 @@ BiLSTM for Sequential Patterns – A Bidirectional Long Short-Term Memory (BiLST
 Hierarchical Attention-Based CNN (HABCNN) – A combination of convolutional layers and attention mechanisms refines feature extraction.
 Gating Mechanism & Classification – The model filters critical features and classifies URLs as either phishing or legitimate.
 Key Benefits
-✅ High Accuracy – Utilizes advanced NLP and deep learning techniques for precise classification.
-✅ Robust & Scalable – Effective against evolving phishing strategies.
-✅ Contributes to Cybersecurity – Provides a reliable approach to detecting malicious URLs.
+ ->High Accuracy – Utilizes advanced NLP and deep learning techniques for precise classification.
+ ->Robust & Scalable – Effective against evolving phishing strategies.
+ ->Contributes to Cybersecurity – Provides a reliable approach to detecting malicious URLs.
 
 This project aims to enhance cybersecurity by detecting phishing attempts with high efficiency. Future improvements may include integrating real-time threat analysis and expanding the dataset for better generalization.
