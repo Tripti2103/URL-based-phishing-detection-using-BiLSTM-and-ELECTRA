@@ -31,9 +31,9 @@ This project presents a **robust, multi-layered approach** to detecting phishing
 ![Phishing URL](https://github.com/Tripti2103/URL-based-phishing-detection-using-BiLSTM-and-ELECTRA/blob/main/phishing.png?raw=true)  
 
 ## **Key Benefits**  
-✅ **High Accuracy** – Utilizes advanced NLP and deep learning techniques for precise classification.  
-✅ **Robust & Scalable** – Effective against evolving phishing strategies.  
-✅ **Contributes to Cybersecurity** – Provides a reliable approach to detecting malicious URLs.  
+  ->**High Accuracy** – Utilizes advanced NLP and deep learning techniques for precise classification.  
+  ->**Robust & Scalable** – Effective against evolving phishing strategies.  
+  ->**Contributes to Cybersecurity** – Provides a reliable approach to detecting malicious URLs.  
 
 ## **Future Improvements**  
 This project aims to enhance cybersecurity by detecting phishing attempts with high efficiency. Future improvements may include integrating real-time threat analysis and expanding the dataset for better generalization.  
